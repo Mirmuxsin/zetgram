@@ -7,8 +7,8 @@ PHP Framework for create Telegram bot simple.
 # EN:
 Download and install
 ---------
-  # With Github
-  #### Run this in catalog:
+  #### With Github
+  Run this in catalog:
   ```
   https://github.com/zetgram/zetgram.git
   ```
